@@ -4,7 +4,6 @@
 
 <div align="center">
 
-![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 <a href="https://rocketseat.com.br">
 <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
 </a>
@@ -31,56 +30,45 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 
 ## **:computer: TECNOLOGIAS**
 
-#### **Website** ([React][react] + [TypeScript][typescript])
+#### **Website** ([React] + [TypeScript])
 
-- **[React Router Dom][react_router_dom]**
-- **[React Icons][react_icons]**
-- **[Axios][axios]**
-- **[Leaflet][leaflet]**
-- **[React Leaflet][react_leaflet]**
-- **[React Dropzone][react_dropzone]**
+- **[React Router Dom]**
+- **[React Icons]**
+- **[Axios]**
+- **[Leaflet]**
+- **[React Leaflet]**
+- **[React Dropzone]**
 
 \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
 
-#### **Server** ([NodeJS][node] + [TypeScript][typescript])
+#### **Server** ([NodeJS] + [TypeScript])
 
-- **[Express][express]**
-- **[CORS][cors]**
-- **[KnexJS][knex]**
-- **[SQLite][sqlite3]**
-- **[ts-node][tsnode]**
-- **[dotENV][dotenv]**
-- **[Multer][multer]**
-- **[Celebrate][celebrate]**
-- **[Joi][joi]**
+- **[Express]**
+- **[CORS]**
+- **[KnexJS]**
+- **[SQLite]**
+- **[ts-node]**
+- **[dotENV]**
+- **[Multer]**
+- **[Celebrate]**
+- **[Joi]**
 
 \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
-#### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
+#### **Mobile** ([React Native] + [TypeScript])
 
-- **[Expo][expo]**
-- **[Expo Google Fonts][expo_google_fonts]**
-- **[React Navigation][react_navigation]**
-- **[React Native Maps][react_native_maps]**
-- **[Expo Constants][expo_constants]**
-- **[React Native SVG][react_native_svg]**
-- **[Axios][axios]**
-- **[Expo Location][expo_location]**
-- **[Expo Mail Composer][expo_mail_composer]**
+- **[Expo]**
+- **[Expo Google Fonts]**
+- **[React Navigation]**
+- **[React Native Maps]**
+- **[Expo Constants]**
+- **[React Native SVG]**
+- **[Axios]**
+- **[Expo Location]**
+- **[Expo Mail Composer]**
 
 \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
-#### **Utilitários**
-
-- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)</kbd>**
-- API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>**
-- Maps: **[Leaflet][leaflet]**
-- Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
-- Teste de API: **[Insomnia][insomnia]**
-- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
-- Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
 
 ## **:wine_glass: COMO UTILIZAR**
 
@@ -226,42 +214,6 @@ Exemplo:
 - Agora é só abrir um _pull request_ no repositório que você fez o _fork_ e assim que acontecer o _merge_ sua Issue será fechada e suas alterações irão fazer parte do projeto;
 - Depois que o _merge_ da sua pull request for feito, você pode deletar a sua _branch_.
 
-## **:star2: Thank You**
-
-<div align=center>
-
-<table style="width:100%">
-  <tr align=center>
-    <th><strong>Next Level Week</strong></th>
-    <th><strong>Rocketseat</strong></th>
-    <th><strong>diego3g</strong></th>
-    <th><strong>maykbrito</strong></th>
-  </tr>
-  <tr align=center>
-    <td>
-      <a href="https://nextlevelweek.com/">
-        <img width="200" src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://rocketseat.com.br/">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/diego3g">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981712-b7f61380-a8f6-11ea-9099-bd3677e97e39.jpg">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/maykbrito">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981753-1de29b00-a8f7-11ea-93cf-23d2ff65fa5c.png">
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## **:page_with_curl: LICENÇA**
 
