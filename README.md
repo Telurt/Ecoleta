@@ -219,4 +219,4 @@ Exemplo:
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório.
 
-<h2 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/telsonurtiga/">Telson Urtiga</a></h2>
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/telurt" target="_blank">telurt</a> </h4>
